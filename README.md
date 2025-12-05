@@ -114,7 +114,7 @@ railway domain add halolight-railway.h7ml.cn
 ## 相关链接
 
 - [HaloLight 文档](https://halolight.docs.h7ml.cn)
-- [Railway 文档](https://docs.railway.app/)
+- [Railway 文档](https:/docs.railway.app/)
 - [Railway Templates](https://railway.app/templates)
 
 ## 许可证
